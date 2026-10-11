@@ -1,4 +1,0 @@
-(fp_lib_table
-	(version 7)
-	(lib (name "1_buzzer") (type "KiCad") (uri "D:/PCB/kicad tools/footprint libraries/1_buzzer.pretty") (options "") (descr ""))
-)
